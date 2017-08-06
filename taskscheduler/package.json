@@ -1,0 +1,16 @@
+{
+  "name": "taskscheduler",
+  "version": "1.0.0",
+  "description": "An Effective way to schedule your tasks",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },  
+  "keywords": [
+    "Electron"
+  ],
+  "author": "Jagan",
+  "devDependencies": {
+    "electron": "^1.6.11"
+  }
+}
